@@ -1,0 +1,175 @@
+[
+  {
+    "id": 1,
+    "prompt": "우사기의 “야하!”는 무슨 뜻일까요?",
+    "choices": [
+      "바이!",
+      "나 쎄지?",
+      "하이!",
+      "이게 뭐게!",
+      "내 주먹밥 어디 갔지?"
+    ],
+    "answer": 2,
+    "explanation": "“야하!”는 반갑게 건네는 “하이!”입니다.",
+    "video": "videos/q01.mp4",
+    "isSample": false,
+    "videoAspect": 1.3584905660377358,
+    "poster": "videos/posters/q01.jpg"
+  },
+  {
+    "id": 2,
+    "prompt": "“와앙”은 어떤 소리일까요?",
+    "choices": [
+      "같이 먹자고 부르는 소리",
+      "맛있는 걸 신나게 먹는 소리",
+      "음식을 던지다가 힘들어서 내는 소리",
+      "주먹밥한테 잡아먹히는 소리",
+      "도시락 뚜껑과 기싸움하는 소리"
+    ],
+    "answer": 1,
+    "explanation": "맛있는 음식을 신나게 먹고 있습니다.",
+    "video": "videos/q02.mp4",
+    "isSample": false,
+    "videoAspect": 1.3432835820895523,
+    "poster": "videos/posters/q02.jpg"
+  },
+  {
+    "id": 3,
+    "prompt": "“이야하아!!”에 담긴 마음은?",
+    "choices": [
+      "바람 쩐다!",
+      "이거 떨어지진 않겠지?",
+      "바다에 빠지면 무서워~",
+      "바람 많이 불어서 무서워~",
+      "신난다!!!"
+    ],
+    "answer": 4,
+    "explanation": "신나는 마음을 힘차게 외치는 “신난다!!!”입니다.",
+    "video": "videos/q03.mp4",
+    "isSample": false,
+    "videoAspect": 1.3953488372093024,
+    "poster": "videos/posters/q03.jpg"
+  },
+  {
+    "id": 4,
+    "prompt": "“챱챱”… 지금 우사기의 생각을 맞혀 보세요.",
+    "choices": [
+      "우나 존맛!",
+      "흠, 이게 무슨 맛이지?",
+      "너도 한 입 줄까?",
+      "밥은 뭐 먹지?",
+      "이 접시까지 먹어도 되나?"
+    ],
+    "answer": 0,
+    "explanation": "우사기의 속마음은 “우나 존맛!”입니다.",
+    "video": "videos/q04.mp4",
+    "isSample": false,
+    "videoAspect": 1.55,
+    "poster": "videos/posters/q04.jpg"
+  },
+  {
+    "id": 5,
+    "prompt": "속삭이듯 말하는 “야하!”는 무슨 뜻일까요?",
+    "choices": [
+      "가지 말자, 무서워…",
+      "가지 마!",
+      "내 거야!",
+      "가보자!",
+      "일단 나 대신 네가 가봐!"
+    ],
+    "answer": 3,
+    "explanation": "조용하지만 의욕 넘치는 “가보자!”입니다.",
+    "video": "videos/q05.mp4",
+    "isSample": false,
+    "videoAspect": 1.627906976744186,
+    "poster": "videos/posters/q05.jpg"
+  },
+  {
+    "id": 6,
+    "prompt": "“우…. 이….” 우사기는 무슨 말을 하고 있을까요?",
+    "choices": [
+      "엉켰는데 풀어라!",
+      "오… 이거… 엉켰는데…",
+      "다시 입혀줘!",
+      "이거 입으면 날 수 있나…?",
+      "나 지금 포장된 거야…?"
+    ],
+    "answer": 1,
+    "explanation": "엉킨 모습을 보고 “오… 이거… 엉켰는데…”라고 말하고 있습니다.",
+    "video": "videos/q06.mp4",
+    "isSample": false,
+    "videoAspect": 1.525,
+    "poster": "videos/posters/q06.jpg"
+  },
+  {
+    "id": 7,
+    "prompt": "“우…럇!!!”에 어울리는 대사는?",
+    "choices": [
+      "맞았다!",
+      "으..얍!!",
+      "제발 맞아라!",
+      "맞아라!",
+      "잠깐! 나 아직 준비 안 됐어!"
+    ],
+    "answer": [
+      1,
+      3
+    ],
+    "explanation": "“으..얍!!”과 “맞아라!” 모두 정답입니다. 둘 중 하나만 선택해도 10점을 받습니다.",
+    "video": "videos/q07.mp4",
+    "isSample": false,
+    "videoAspect": 1.8181818181818181,
+    "poster": "videos/posters/q07.jpg"
+  },
+  {
+    "id": 8,
+    "prompt": "짧은 “쀼릿!”은 어떤 상황의 소리일까요?",
+    "choices": [
+      "몰래 듣고 있다가 정답을 맞히는 소리",
+      "갑자기 밥을 먹고 싶다는 소리",
+      "귀에서 와이파이가 연결되는 소리",
+      "주먹밥이 자신을 부른다는 소리",
+      "배터리가 1% 남았다는 소리"
+    ],
+    "answer": 0,
+    "explanation": "몰래 듣고 있다가 정답을 맞히는 소리입니다.",
+    "video": "videos/q08.mp4",
+    "isSample": false,
+    "videoAspect": 1.8,
+    "poster": "videos/posters/q08.jpg"
+  },
+  {
+    "id": 9,
+    "prompt": "“이야하!!!!!”는 무엇을 하는 소리일까요?",
+    "choices": [
+      "우사기가 응가가 마렵다는 소리",
+      "우사기가 도시락을 빼앗겼다는 소리",
+      "우사기가 포즈를 취하는 소리",
+      "우사기가 양말 한 짝을 찾는 소리",
+      "우사기가 자기 그림자랑 싸우는 소리"
+    ],
+    "answer": 2,
+    "explanation": "우사기가 멋지게 포즈를 취하면서 내는 소리입니다.",
+    "video": "videos/q09.mp4",
+    "isSample": false,
+    "videoAspect": 1.8,
+    "poster": "videos/posters/q09.jpg"
+  },
+  {
+    "id": 10,
+    "prompt": "“뿌루룻… 뿌루룻… 뿌RRRRRRRRRR!”의 뜻은?",
+    "choices": [
+      "내 주먹밥에 시동이 걸렸는데에에!!!",
+      "나 지금 세탁기 탈수 중인데에에!!!",
+      "귀로 라디오 주파수 맞추는 중인데에에!!!",
+      "오… 오… 이거 재밌는데에에!!!!!!!!!!!",
+      "잠깐, 내 배에서 오토바이 출발한다아아!!!"
+    ],
+    "answer": 3,
+    "explanation": "점점 흥이 올라 “오… 오… 이거 재밌는데에에!!!!!!!!!!!” 하고 있습니다.",
+    "video": "videos/q10.mp4",
+    "isSample": false,
+    "videoAspect": 1.597972972972973,
+    "poster": "videos/posters/q10.jpg"
+  }
+]
