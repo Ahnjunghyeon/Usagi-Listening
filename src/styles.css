@@ -8,3 +8,12 @@
 
 .backdrop{background-position:right bottom}
 @media(max-width:600px){.backdrop{background-position:center bottom}}
+
+.videoTouch{position:absolute;inset:0;width:100%;height:100%;border:0;background:transparent;display:grid;place-items:center;padding:0;cursor:pointer;touch-action:manipulation}
+.videoTouch:active:not(:disabled){transform:none}
+.videoTouch:focus-visible{outline:3px solid #8067b3;outline-offset:-5px;border-radius:18px}
+.videoPlayBadge{display:grid;place-items:center;gap:5px;padding:15px 20px;border-radius:22px;background:#fffaf0eb;color:#665044;box-shadow:0 3px 18px #35271d24;pointer-events:none}
+.videoPlayBadge>span{font-size:29px;line-height:1.2}.videoPlayBadge small{font-size:11px;color:#665044}
+.videoActions{min-height:52px;display:flex;align-items:center;justify-content:center;padding-top:8px;text-align:center}
+.videoReplay{border:1px solid #b7a491;border-radius:20px;background:#f7eddb;padding:9px 20px;font-size:13px;min-height:40px}
+.videoReplay:hover{background:#f8e5c4}.videoMessage{font-size:12px;text-align:center;color:#945533}
